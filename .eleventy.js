@@ -21,6 +21,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/fonts");
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/js");
+  
+  // Passthrough Copy: File nella root del sito (SEO e LLM)
+  eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
+  eleventyConfig.addPassthroughCopy({ "src/llms.txt": "llms.txt" });
 
   // Dizgli a Eleventy di usare la cartella `src` come input.
   return {

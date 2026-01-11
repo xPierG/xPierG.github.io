@@ -1,7 +1,8 @@
----
-title: "About"
-layout: "default"
----
+# pierg.com
+
+> Personal website of Piergiorgio Grossi (PierG) — innovation leader, AI practitioner, agile evangelist, and former F1/MotoGP technologist.
+
+## About
 
 Over time, my work has increasingly focused on how innovation and AI work in practice, particularly in complex, fast-moving environments where ways of working, decision-making and execution make the difference between ideas and results.
 
@@ -14,3 +15,22 @@ My approach is simple: less slides, more code. I'm less interested in buzzwords 
 When I'm not at the bank, I'm still building. I co-founded ImpactHub Reggio Emilia and love jumping into the trenches with tech startups. You'll also find me on conference stages or in university halls, talking (probably too much) about AI, digital strategy, and agile.
 
 My goal is simple: challenge the status quo and build what's next.
+
+## Sections
+
+- [About](/about/): Background, career history, and current role
+- [Blog](/blog/): Articles on innovation, AI, leadership, and technology
+- [Contact](/contact/): How to get in touch
+
+## Key Topics
+
+- AI in enterprise
+- Agile transformation and ways of working
+- Innovation leadership
+- Decision-making in complex organizations
+- Digital transformation in several industries
+- Motorsport technology (Formula 1, MotoGP)
+- Startup incubation and mentorship
+- Data governance
+- IT strategy in complex organizations
+- Conference speaking and university lecturing

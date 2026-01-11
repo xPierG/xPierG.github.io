@@ -1,7 +1,9 @@
 ---
-title: "Home"
+title: "Piergiorgio Grossi | PierG"
+description: "Piergiorgio Grossi works on innovation, AI and critical decisions in complex organizations."
 layout: "v-card" # Manteniamo lo stesso nome di layout per ora
 ---
+<h1 class="sr-only">Piergiorgio Grossi</h1>
 <div class="split-container">
     <div class="split-child text-content">
         <h1>PierG</h1>
